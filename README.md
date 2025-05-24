@@ -44,7 +44,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository
 
    ```shell
-    git clone https://github.com/JavaScript-Mastery-PRO/project1_team4_repository.git
+   https://github.com/Vage10/Music-App.git
    ```
 
 2. Change directory to the project directory
@@ -72,5 +72,5 @@ Follow these steps to set up the project locally:
     Project will be running in the browser.
 
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-   ## Developed By
+## Developed By
    Vageshwari Chaudhary
